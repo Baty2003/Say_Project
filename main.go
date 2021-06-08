@@ -1,4 +1,4 @@
-package Say_Project
+package main
 
 func main() {
 	Task1()

@@ -1,4 +1,4 @@
-package Say_Project
+package main
 
 import (
 	"fmt"
