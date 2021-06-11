@@ -19,4 +19,8 @@ func Task3()  {
 	fmt.Println(*radius)
 	fmt.Println(s)
 
+	b := []int{1,2,3}
+	b = append(b, 10)
+	fmt.Println(b)
+
 }
