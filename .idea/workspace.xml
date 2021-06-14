@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f71b56c5-48a6-489a-9f16-d99315a04678" name="Default Changelist" comment="Test delete">
-      <change afterPath="$PROJECT_DIR$/Module_2/Task2_4.go" afterDir="false" />
+    <list default="true" id="f71b56c5-48a6-489a-9f16-d99315a04678" name="Default Changelist" comment="Task2-4 finish">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_2/Task2-2.go" beforeDir="false" afterPath="$PROJECT_DIR$/Module_2/Task2-2.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_2/Task2-3.go" beforeDir="false" afterPath="$PROJECT_DIR$/Module_2/Task2-3.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module_2/task2-1.go" beforeDir="false" afterPath="$PROJECT_DIR$/Module_2/task2-1.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Module_2/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +19,6 @@
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../go1.16.4" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1tfjxep474Srewn2nft1q5LLMu8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -129,7 +123,8 @@
     <MESSAGE value="Update task#2" />
     <MESSAGE value="Test" />
     <MESSAGE value="Test delete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test delete" />
+    <MESSAGE value="Task2-4 finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task2-4 finish" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Say_Project$go_test_Say_Project.out" NAME="go test Say_Project Coverage Results" MODIFIED="1623167611898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
