@@ -22,7 +22,7 @@ func getMax(numbers... int)  (max int){
 }
 
 func Task2_5(){
-	someSliceString := []string{"Book","Laptop","City","Lake","Work"}
+	someSliceString := []string{"Book","Laptop","City","Lake","Work","College"}
 	someString := "laptop"
 	contains(someSliceString,someString)
 	fmt.Println(getMax(1,2,883,44,5,6,7,100,999))
