@@ -25,5 +25,5 @@ func Task2_5(){
 	someSliceString := []string{"Book","Laptop","City","Lake","Work"}
 	someString := "laptop"
 	contains(someSliceString,someString)
-	fmt.Println(getMax(1,2,3,4,5,6,7,100,999))
+	fmt.Println(getMax(1,2,883,44,5,6,7,100,999))
 }
